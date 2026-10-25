@@ -20,6 +20,8 @@ AI assistant using modern AI architecture patterns.
 - diagrams/: Architecture diagrams and source files
 - adr/: Architecture Decision Records
 - capstone/: Final architecture and presentation
+- mini-assignments/: Short design assignments
+  - [01-marketing-ai-automation](mini-assignments/01-marketing-ai-automation/): Marketing automation with AI & agents
 
 ## Progress
 Work in progress.
